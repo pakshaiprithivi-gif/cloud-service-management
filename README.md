@@ -132,6 +132,5 @@ By completing this project, you will:
 
 ## 👩‍💻 Author
 
-Akshaya P
 Akalya S
 Akash S
